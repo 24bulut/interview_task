@@ -1,0 +1,16 @@
+{
+    "name": "user/job-case",
+    "description": "karaca is gorusmesi icin hazirlanmistir",
+    "autoload": {
+        "psr-4": {
+            "User\\JobCase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdurrahim bulut",
+            "email": "abdurrahim.bulut@tsoft.com.tr"
+        }
+    ],
+    "require": {}
+}
